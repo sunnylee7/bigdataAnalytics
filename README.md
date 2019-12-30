@@ -1,2 +1,2 @@
-# bigdataAnalytic
-Only for Bigdata Lecture.
+# bigdataAnalytics
+Only for Bigdata Lecture
