@@ -8,7 +8,7 @@ Big Data Analytics
 cd
 git clone  https://github.com/Finfra/bigdataAnalytics.git
 cd  bigdataAnalytics
-chmod +x *.sh
+chmod +x setting/*.sh
 ```
 
 # Contents
