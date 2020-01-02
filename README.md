@@ -37,3 +37,6 @@ chmod +x setting/*.sh
 
 # toDo
 1. 요청사항 반영
+
+
+fork 뜸
